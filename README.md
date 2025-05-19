@@ -6,7 +6,7 @@ This project is a data visualization analysis built using Microsoft Excel, focus
 The goal of this project is to extract insights from export data and help stakeholders understand trends and performance in order to boost future sales. The data was cleaned and transformed using Pivot Tables, and key insights were visualized through charts and tables.
 
 ## Project Structure
-Here are the explanation of the columns in the excel file:
+Here are the explanation of the sheets in the excel file:
 + **Raw Data**: Contains original export records from 2016 to 2022.
 + **Pivot Table**: Data was grouped, sorted, and aggregated for analysis.
 + **Visualisasi Data**: Final visualizations and summary insights.
